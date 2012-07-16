@@ -1368,11 +1368,6 @@ RS:
     name: Dinars
     symbol: Дин.
     unicode_hex: [0x414, 0x438, 0x43d, 0x2e]
-GS:
-  alpha2: GS
-  name: South Georgia and the South Sandwich Islands
-  alpha3: SGS
-  currency_iso4217: *gbp
 SD:
   alpha2: SD
   name: Sudan
@@ -1746,3 +1741,8 @@ ZM:
   currency_iso4217:
     code: ZMK
     name: Kwacha
+GS:
+  alpha2: GS
+  name: South Georgia and the South Sandwich Islands
+  alpha3: SGS
+  currency_iso4217: *gbp
